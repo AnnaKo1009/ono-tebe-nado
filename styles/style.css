@@ -126,7 +126,6 @@
 }
 
 .bet-button {
-    padding: 0;
     border: 1px solid #fff;
     font: inherit;
     color: inherit;
@@ -177,7 +176,6 @@
     height: 563px;
     opacity: 0px;
     padding: 51px 40px 48px;
-    height: 100%;
 }
 
 .card_type_film {
@@ -238,7 +236,7 @@
     padding: 146px 25px 0 0;
 }
 
-.about__logo{
+.about__logo {
     display: flex;
     background-color: black;
     border-radius: 100%;
